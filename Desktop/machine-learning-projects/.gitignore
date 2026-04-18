@@ -5,6 +5,7 @@
 # to prevent GitHub's 100MB file limit errors.
 *.csv
 *.pkl
+!movie_list.pkl
 
 # (Optional: If you want to explicitly name them instead of blocking all)
 # tmdb_5000_movies.csv
